@@ -4,7 +4,7 @@ Compilation steps
 
 Install build requirements using below command
 
-sudo apt-get install cmake g++ make nc 
+sudo apt-get install cmake 
 
 Compiling the source
 
