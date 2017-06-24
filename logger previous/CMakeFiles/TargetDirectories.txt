@@ -1,0 +1,3 @@
+/home/viswanath/Desktop/loggerN/CMakeFiles/edit_cache.dir
+/home/viswanath/Desktop/loggerN/CMakeFiles/rebuild_cache.dir
+/home/viswanath/Desktop/loggerN/CMakeFiles/logger.dir

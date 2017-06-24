@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -pthread   CMakeFiles/logger.dir/main.cpp.o CMakeFiles/logger.dir/logger.cpp.o CMakeFiles/logger.dir/serve.cpp.o CMakeFiles/logger.dir/enc_dec.cpp.o  -o logger 
